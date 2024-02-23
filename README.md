@@ -4,7 +4,7 @@
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rungthiwarat&label=Profile%20views&color=0e75b6&style=flat" alt="rungthiwarat" /> </p>-->
-  <img align="right" margin-top="200px" alt="Female Coding" width="200" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif"/>
+  <img align="right" alt="Female Coding" width="200" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif"/>
 
 - 🌱 I’m currently learning **Next.js and Go**
 
@@ -21,8 +21,8 @@
 ---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rungthiwarat&show_icons=true&locale=en&layout=compact" alt="rungthiwarat" /></p>
+-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rungthiwarat&show_icons=true&locale=en&layout=compact" alt="rungthiwarat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rungthiwarat&show_icons=true&locale=en" alt="rungthiwarat" /></p>
+*<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rungthiwarat&show_icons=true&locale=en" alt="rungthiwarat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rungthiwarat&" alt="rungthiwarat" /></p>
++<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rungthiwarat&" alt="rungthiwarat" /></p>
