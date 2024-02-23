@@ -21,8 +21,8 @@
 ---
 
 
--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rungthiwarat&show_icons=true&locale=en&layout=compact" alt="rungthiwarat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rungthiwarat&show_icons=true&locale=en&layout=compact" alt="rungthiwarat" /></p>.
 
-*<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rungthiwarat&show_icons=true&locale=en" alt="rungthiwarat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rungthiwarat&show_icons=true&locale=en" alt="rungthiwarat" /></p>.
 
-+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rungthiwarat&" alt="rungthiwarat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rungthiwarat&" alt="rungthiwarat" /></p>.
