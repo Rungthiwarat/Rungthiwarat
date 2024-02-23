@@ -1,9 +1,9 @@
 ![MasterHead](https://img.freepik.com/free-photo/code-coding-programming-technology-technical-concept_53876-120436.jpg?w=1380&t=st=1708716353~exp=1708716953~hmac=de5d6aaf55fb5c6518db8b9093718ac76dc940fdf6519574c853f8caf1f405ca)
 <h1 align="center">Hi 👋, I'm Rungthiwarat Leitenberger</h1>
 <h3 align="center">A passionate frontend developer from Thailand but live in Germany</h3>
-<img align="right" alt="Female Coding" width="200" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif"/>
+<img align="center" alt="Female Coding" width="200" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rungthiwarat&label=Profile%20views&color=0e75b6&style=flat" alt="rungthiwarat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rungthiwarat&label=Profile%20views&color=0e75b6&style=flat" alt="rungthiwarat" /> </p>
 
 - 🌱 I’m currently learning **Next.js and Go**
 
