@@ -4,9 +4,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rungthiwarat&label=Profile%20views&color=0e75b6&style=flat" alt="rungthiwarat" /> </p>
+  <img align="right" alt="Female Coding" width="200" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif"/>
 
 - 🌱 I’m currently learning **Next.js and Go**
-- <img align="right" alt="Female Coding" width="200" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif"/>
 
 - 💬 Ask me about **Webdevelopment**
 
