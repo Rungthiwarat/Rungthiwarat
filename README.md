@@ -17,7 +17,7 @@
 ---
 <style>
   .custom-paragraph {
-    background-color: white; 
+    background: white; 
    }
 </style>
 
