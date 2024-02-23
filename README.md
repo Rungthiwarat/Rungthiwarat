@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-photo/code-coding-programming-technology-technical-concept_53876-120436.jpg?w=1380&t=st=1708716353~exp=1708716953~hmac=de5d6aaf55fb5c6518db8b9093718ac76dc940fdf6519574c853f8caf1f405ca)
 <h1 align="center">Hi 👋, I'm Rungthiwarat Leitenberger</h1>
-<h2 align="center">A passionate frontend developer who enjoy to learning new things everyday</h2>
+<h2 align="center">A passionate frontend developer who enjoy to learning new thing everyday</h2>
 
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rungthiwarat&label=Profile%20views&color=0e75b6&style=flat" alt="rungthiwarat" /> </p>-->
