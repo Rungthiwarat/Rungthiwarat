@@ -21,11 +21,11 @@
 ---
 
 <div style="display: flex; flex-direction: column;">
-  !<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rungthiwarat&show_icons=true&locale=en&layout=compact" alt="rungthiwarat" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rungthiwarat&show_icons=true&locale=en&layout=compact" alt="rungthiwarat" />
 
-  !<img align="center" src="https://github-readme-stats.vercel.app/api?username=rungthiwarat&show_icons=true&locale=en" alt="rungthiwarat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rungthiwarat&show_icons=true&locale=en" alt="rungthiwarat" />
 
-  !<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rungthiwarat&" alt="rungthiwarat" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rungthiwarat&" alt="rungthiwarat" />
 </div>
 
 
