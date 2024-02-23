@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Thailand but live in Germany</h3>
 <img align="right" alt="Female Coding" width="200" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rungthiwarat&label=Profile%20views&color=0e75b6&style=flat" alt="rungthiwarat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rungthiwarat&label=Profile%20views&color=0e75b6&style=flat" alt="rungthiwarat" /> </p>
 
 - 🌱 I’m currently learning **Next.js and Go**
 
