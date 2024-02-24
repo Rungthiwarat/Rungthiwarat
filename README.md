@@ -16,7 +16,7 @@
 <!--<p align="left"></p>-->
 ---
 <img align="right" alt="Female Coding" width="200" src="https://media.tenor.com/-6m2vqRjKDEAAAAi/geek-girl.gif"/>
-<!--<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 
 <h3><ins>Programming Languages</ins> </h3>
 <p align="left"> 
@@ -71,7 +71,7 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rungthiwarat&" alt="rungthiwarat" />
-</p>-->
+</p>
 
 
 
